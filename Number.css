@@ -28,6 +28,7 @@ font-weight: bolder;
 #p1{
   font-size: 20px;
   color: #0a4ac9;
+  font-weight: bolder;
 }
 #input{
   border-radius: 7px;
@@ -48,4 +49,19 @@ font-weight: bolder;
   max-width: 300px;
   box-shadow: 0 4px 8px #3506ae;
   text-align: center;
+}
+.phone{
+  font-size: 20px;
+  font-weight: bolder;
+}
+#p5{
+  font-size: 20px;
+  font-weight: bolder;
+}
+#inputnum{
+  padding: 2px 5px;
+  border: none;
+  border-radius: 7px;
+  outline-color: blue;
+  color: blue;
 }
